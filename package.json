@@ -1,0 +1,13 @@
+{
+  "name": "declaration-of-love",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Declaration of love contract",
+  "author": "Kirill Khoroshilov <mr.hokid@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2"
+  }
+}
